@@ -1,9 +1,6 @@
 # youtube-shorts-redirect
 A Tampermonkey script which will automatically redirect to YouTube's regular /watch?v={id} page when opening a YouTube shorts video
 
-# duolingo-keyboard-shortcuts
-A Tampermonkey script which will automatically redirect to YouTube's regular /watch?v={id} page when opening a YouTube shorts video
-
 # How to use
 To use this script you have to install the Tampermonkey browser extension. After installing you can create a new userscript in Tampermonkey, paste the contents of index.js as the script.
 
